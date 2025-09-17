@@ -1,0 +1,24 @@
+{
+  "name": "podcasts-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start:dev": "tsx src/server.js",
+    "start:watch": "tsx watch src/server.js",
+    "dist": "tsup src",
+    "start:dist": "npm run dist && node/sever.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}
