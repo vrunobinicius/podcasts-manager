@@ -10,7 +10,7 @@
         ]
     },
     {
-        "podcastName": "podcast 2",
+        "podcastName": "podcast2",
         "videoId": "456",
         "cover": "image2.png",
         "categories": [
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "podcastName": "podcast 3",
+        "podcastName": "podcast3",
         "videoId": "789",
         "cover": "image3.png",
         "categories": [
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "podcastName": "podcast 4",
+        "podcastName": "podcast4",
         "videoId": "1011",
         "cover": "image4.png",
         "categories": [
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "podcastName": "podcast 5",
+        "podcastName": "podcast5",
         "videoId": "1213",
         "cover": "image5.png",
         "categories": [
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "podcastName": "podcast 6",
+        "podcastName": "podcast6",
         "videoId": "1213",
         "cover": "image5.png",
         "categories": [
